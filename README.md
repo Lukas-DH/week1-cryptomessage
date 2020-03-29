@@ -8,13 +8,12 @@
 ## Content
 - [Project Description](#project-description)
 - [Workflow](#workflow)
-- [Organization](#organization)
 - [Links](#links)
 
 ## Project Description
-This program can protect with a password, encrypt, decrypt the message shared between two users.
+This program can protect with a password, encrypt, decrypt messages shared between two users.
 
-## Workflow & Organization
+## Workflow
 We..
 1. Described the main step of our code (parameters, functions, variables..)
 2. Splited the steps in tasks
@@ -22,10 +21,7 @@ We..
 4. Kept ourselves updated with the state of our work
 5. Kept reflecting on improving the user experience & the secrety of messages
 
-
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Lukas-DH/week1-cryptomessage/)  
+[Slides]
