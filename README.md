@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Message Encryption/Decryption
 *Lukas & Elise*
 
 *Data Analytics Bootcamp, Paris, March 2020*
@@ -24,4 +24,3 @@ We..
 ## Links
 
 [Repository](https://github.com/Lukas-DH/week1-cryptomessage/)  
-[Slides]
