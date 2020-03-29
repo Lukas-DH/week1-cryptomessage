@@ -24,3 +24,4 @@ We..
 ## Links
 
 [Repository](https://github.com/Lukas-DH/week1-cryptomessage/)  
+[Slides](https://docs.google.com/presentation/d/1XJIdJyXskh_e-0G8nLDF-fSZilai7qfKJRqeUec1OmI/edit?usp=sharing)
